@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prathik-001
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning BCA
+- 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on a Web based projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
